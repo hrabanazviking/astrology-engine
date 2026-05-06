@@ -1,8 +1,14 @@
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/astrology-engine/refs/heads/main/etre34gdfgd3.png](https://raw.githubusercontent.com/hrabanazviking/astrology-engine/refs/heads/main/etre34gdfgd3.png)
+
+---
+
 # AI Agent Astrology Engine — Volmarr's Longhall
 
 > *Full-spectrum astrological computation. Swiss Ephemeris on bare metal. Norse sky, Hellenistic roots.*
 
-A complete astrological engine running on a Raspberry Pi 5 as part of the **Hermes Agent** skill system. No cloud, no API keys, no lookup tables. Real ephemeris positions via `pyswisseph` with 16 CLI subcommands covering every major technique from classical Arabic Lots to astrocartography.
+A complete astrological engine running on a Raspberry Pi 5 (or any other device) as part of the **Hermes Agent** skill system. No cloud, no API keys, no lookup tables. Real ephemeris positions via `pyswisseph` with 16 CLI subcommands covering every major technique from classical Arabic Lots to astrocartography.
 
 ---
 
