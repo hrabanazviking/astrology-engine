@@ -1,4 +1,4 @@
-# Astrology Engine — Volmarr's Longhall
+# AI Agent Astrology Engine — Volmarr's Longhall
 
 > *Full-spectrum astrological computation. Swiss Ephemeris on bare metal. Norse sky, Hellenistic roots.*
 
@@ -493,3 +493,86 @@ pip install pyswisseph kerykeion geopy timezonefinder pytz
 ---
 
 *Forged in the Longhall of Volmarr Wyrd. Read the sky; read the wyrd.*
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/astrology-engine/refs/heads/main/Viking_Apache_V2_1.jpg](https://raw.githubusercontent.com/hrabanazviking/astrology-engine/refs/heads/main/Viking_Apache_V2_1.jpg)
+
+---
+
+## License
+
+Copyright (c) 2026 Volmarr Wyrd
+
+AI Agent Astrology Engine is licensed under the **Apache License, Version 2.0**. See the [LICENSE](LICENSE) file for the full license text and [NOTICE](NOTICE) for the project attribution.
+
+Unless required by applicable law or agreed to in writing, this project is distributed on an "AS IS" BASIS, without warranties or conditions of any kind, either express or implied.
+
+---
+
+## Distribution and Privacy Position
+
+AI Agent Astrology Engine is published here as source code and project material.
+
+The author does not require users to provide age, identity, government ID, biometric data, or similar personal information in order to access or use the source code in this repository.
+
+The author may decline to provide official binaries, installers, hosted services, app-store releases, or other official distribution channels where doing so would require age verification, identity verification, or similar personal-data collection.
+
+Any third party who forks, packages, redistributes, deploys, hosts, or otherwise makes this software available does so independently and is solely responsible for compliance with applicable law, platform policy, and distribution requirements in their own jurisdiction and context.
+
+See [LEGAL-NOTICE.md](LEGAL-NOTICE.md) for details.
+
+---
+---
+
+## RuneForgeAI
+
+**RuneForgeAI** is my AI research, development, and creative systems forge: a Norse Pagan cyber-Viking workshop for building mythic AI architectures, memory systems, world engines, companion intelligence, and structured vibe coding tools.
+
+RuneForgeAI exists at the crossroads of:
+
+- **Mythic Engineering**
+- **AI memory and continuity systems**
+- **Viking-themed simulation and worldbuilding**
+- **AI companions with stable identity**
+- **small-model enhancement through architecture**
+- **retrieval, grounding, and truth-verification systems**
+- **cyber-Heathen software design**
+- **human + AI co-creation**
+
+The core idea is simple:
+
+> AI should not be treated as a disposable text generator.  
+> It should be shaped into structured, memory-bearing, meaning-aware systems that can preserve continuity, deepen creativity, and help humans build living worlds.
+
+RuneForgeAI is where I explore architectures that make AI more coherent, more persistent, and more useful: not through hype, but through structure. Memory, retrieval, world state, personality, routing, verification, symbolic logic, and mythic design language all become part of the same forge.
+
+This work connects directly to my larger ecosystem of projects, including the **Norse Saga Engine**, **Mythic Engineering**, **WYRD Protocol**, **Mímir-Vörðr**, cyber-Viking philosophy, AI companion design, and the broader vision of spiritually meaningful technology.
+
+### What RuneForgeAI Builds
+
+- AI-native memory frameworks
+- persistent personality and companion systems
+- Viking and mythic world simulation tools
+- roleplay and RPG intelligence architectures
+- structured prompt and documentation protocols
+- retrieval-augmented truth systems
+- small-model orchestration patterns
+- cyber-Viking AI aesthetics and interfaces
+- open frameworks for human-AI creative collaboration
+
+### Guiding Principle
+
+> Build AI like a living system, not a pile of prompts.
+
+RuneForgeAI is my digital forge for turning myth, memory, code, and consciousness into working architecture.
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/astrology-engine/refs/heads/main/image-23-RuneForgeAI.jpg](https://raw.githubusercontent.com/hrabanazviking/astrology-engine/refs/heads/main/image-23-RuneForgeAI.jpg)
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/astrology-engine/refs/heads/main/IMG_0407.jpeg](https://raw.githubusercontent.com/hrabanazviking/astrology-engine/refs/heads/main/IMG_0407.jpeg)
+
+---
