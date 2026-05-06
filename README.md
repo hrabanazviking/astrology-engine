@@ -12,6 +12,10 @@ A complete astrological engine running on a Raspberry Pi 5 (or any other device)
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/astrology-engine/refs/heads/main/1a64a630-c13b-499b-a1c9-4e6f5fc3fee0.jpg](https://raw.githubusercontent.com/hrabanazviking/astrology-engine/refs/heads/main/1a64a630-c13b-499b-a1c9-4e6f5fc3fee0.jpg)
+
+---
+
 ## Contents
 
 - [What It Does](#what-it-does)
@@ -42,6 +46,10 @@ This is not a keyword reader or chart-wheel generator. The engine:
 - Finds **exact transit dates** to 0.01° precision via bisection algorithm
 - Generates **astrocartography** MC/IC/ASC/DSC lines from first principles (not lookup tables)
 - Overlays **Elder Futhark runes** and **Norse deity correspondences** on every chart
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/astrology-engine/refs/heads/main/1e181307-c1c2-4ecb-912e-f88d3980e3e5.jpg](https://raw.githubusercontent.com/hrabanazviking/astrology-engine/refs/heads/main/1e181307-c1c2-4ecb-912e-f88d3980e3e5.jpg)
 
 ---
 
@@ -109,6 +117,10 @@ You should see current Moon phase, illumination %, and next lunation dates. If `
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/astrology-engine/refs/heads/main/544f9808-270f-4ba7-9d6a-af48d47a624e.jpg](https://raw.githubusercontent.com/hrabanazviking/astrology-engine/refs/heads/main/544f9808-270f-4ba7-9d6a-af48d47a624e.jpg)
+
+---
+
 ## All 16 Subcommands
 
 ### `natal` — Full Natal Chart
@@ -142,6 +154,10 @@ python3 astrology_engine.py transit \
 ```
 
 Default sky date is now (UTC). Use `--transit-date` to forecast against any past or future sky.
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/astrology-engine/refs/heads/main/8ac34e68-f15a-4c8c-bbcb-690a689d37c5.jpg](https://raw.githubusercontent.com/hrabanazviking/astrology-engine/refs/heads/main/8ac34e68-f15a-4c8c-bbcb-690a689d37c5.jpg)
 
 ---
 
@@ -185,6 +201,10 @@ Combined report: harmony/challenge synergy score bar, key cross-aspects, composi
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/astrology-engine/refs/heads/main/c5c058a2-a770-49b1-a58d-637db801313e.jpg](https://raw.githubusercontent.com/hrabanazviking/astrology-engine/refs/heads/main/c5c058a2-a770-49b1-a58d-637db801313e.jpg)
+
+---
+
 ### `solar-return` — Solar Return Chart
 
 ```bash
@@ -218,6 +238,10 @@ python3 astrology_engine.py lunar
 ```
 
 No parameters needed. Returns: current phase name, illumination %, void-of-course status, next New Moon date, next Full Moon date, Moon's aspects to other planets.
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/astrology-engine/refs/heads/main/ccb952ab-e824-4c94-aea9-29651672549d.jpg](https://raw.githubusercontent.com/hrabanazviking/astrology-engine/refs/heads/main/ccb952ab-e824-4c94-aea9-29651672549d.jpg)
 
 ---
 
@@ -255,6 +279,10 @@ python3 astrology_engine.py hellenistic \
 ```
 
 Sect (day/night chart), sect light (Sun or Moon as chart ruler), planetary joys by house, triplicity rulers for each element, stelliums, mutual receptions.
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/astrology-engine/refs/heads/main/ecc1715c-605a-4575-bee5-0d91ade23108.jpg](https://raw.githubusercontent.com/hrabanazviking/astrology-engine/refs/heads/main/ecc1715c-605a-4575-bee5-0d91ade23108.jpg)
 
 ---
 
@@ -359,6 +387,10 @@ Every chart header shows the resolved timezone label, for example:
 ```
 Time: 14:30 LT  →  19:30 UTC  (UTC-05:00  America/Indiana/Indianapolis)
 ```
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/astrology-engine/refs/heads/main/ff1930e8-65c4-4214-b3ca-936e7c6d0e67.jpg](https://raw.githubusercontent.com/hrabanazviking/astrology-engine/refs/heads/main/ff1930e8-65c4-4214-b3ca-936e7c6d0e67.jpg)
 
 ---
 
