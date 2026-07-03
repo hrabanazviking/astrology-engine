@@ -6,6 +6,8 @@
 
 # AI Agent Astrology Engine — Volmarr's Longhall
 
+[![Try astrology-engine on Socialistic](https://socialistic.ai/api/embed/astrology-engine-45ac64?lang=en)](https://socialistic.ai/en/skill/astrology-engine-45ac64?utm_source=github&utm_medium=readme&utm_campaign=20260621-intl-astrology-chart-toolsmiths&utm_content=badge)
+
 > *Full-spectrum astrological computation. Swiss Ephemeris on bare metal. Norse sky, Hellenistic roots.*
 
 A complete astrological engine running on a Raspberry Pi 5 (or any other device) as part of the **Hermes Agent** skill system. No cloud, no API keys, no lookup tables. Real ephemeris positions via `pyswisseph` with 16 CLI subcommands covering every major technique from classical Arabic Lots to astrocartography.
